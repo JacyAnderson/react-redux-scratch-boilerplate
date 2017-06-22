@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/JacyAnderson/react-redux-scratch-boilerplate.git",
   "author": "Jacy <jacyjamesanderson@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  }
 }
