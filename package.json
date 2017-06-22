@@ -5,6 +5,11 @@
   "repository": "https://github.com/JacyAnderson/react-redux-scratch-boilerplate.git",
   "author": "Jacy <jacyjamesanderson@gmail.com>",
   "license": "MIT",
+
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+
   "dependencies": {
     "html-webpack-plugin": "^2.28.0",
     "path": "^0.12.7",
