@@ -1,0 +1,8 @@
+{
+  "name": "react-redux-scratch-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JacyAnderson/react-redux-scratch-boilerplate.git",
+  "author": "Jacy <jacyjamesanderson@gmail.com>",
+  "license": "MIT"
+}
